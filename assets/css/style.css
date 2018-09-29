@@ -88,9 +88,10 @@ img {
     width: 100%;
     padding: 10px;
 }
-.textcomments {
+textarea {
     width: 100%;
-    padding: 50px;
+    height: 200px;
+    border: 1px solid #cccccc;
 }
 .contact_form {
     line-height: 45px;
@@ -102,6 +103,9 @@ img {
     font-size: 20px;
     margin-top: 10px;
     color: #fff;
+    position: relative;
+    top: 270px;
+    right: 60px;
 }
 .portfolio-links {
     width: 540px;
